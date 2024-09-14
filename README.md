@@ -1,4 +1,4 @@
-# Environment Mapping & HDR Lighting
+# Median-Cut Sampling & Environment Mapping & HDR Lighting
 
 <img width="987" alt="bunnydiffuse" src="https://github.com/0xilc/median-cut/assets/28317283/dffe2c21-fb2c-46f5-9885-3ae3d41bd8ed">
 
