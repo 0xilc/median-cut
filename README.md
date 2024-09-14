@@ -3,8 +3,7 @@
 <img width="987" alt="bunnydiffuse" src="https://github.com/0xilc/median-cut/assets/28317283/dffe2c21-fb2c-46f5-9885-3ae3d41bd8ed">
 
 ## Introduction
-This repository contains the implementation of an OpenGL program for Environment Mapping & HDR Lighting, developed for CENG469: Computer Graphics II. The main goal is to create a visually appealing scene using advanced rendering techniques.
-
+This repository contains the implementation of Paul Debevec's paper [Median Cut Algorithm for Light Probe Sampling](https://vgl.ict.usc.edu/Research/MedianCut/MedianCutSampling.pdf), with implementation of HDR environment mapping and tonemapping.
 ## Objectives
 The main objectives are:
 
@@ -48,7 +47,7 @@ The main objectives are:
 
 ## Additional References
 - [Median Cut Algorithm for Light Probe Sampling](https://vgl.ict.usc.edu/Research/MedianCut/MedianCutSampling.pdf)
-- 
+
 ## Extras
 <img width="596" alt="median_cut_thumb" src="https://github.com/0xilc/median-cut/assets/28317283/d9456b15-f905-4812-8355-4381cf12a525">
 <img width="445" alt="opener" src="https://github.com/0xilc/median-cut/assets/28317283/549e7b45-3d5d-4da3-88a3-32d38c312b99">
